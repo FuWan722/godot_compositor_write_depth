@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://df0utaf0ns2l1"
+path="res://.godot/imported/depth_quad.glsl-a0b846973541253c3977f83077844bdc.res"
+
+[deps]
+
+source_file="res://rdstencilpipeline/depth_quad.glsl"
+dest_files=["res://.godot/imported/depth_quad.glsl-a0b846973541253c3977f83077844bdc.res"]
+
+[params]
+
